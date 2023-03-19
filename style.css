@@ -35,10 +35,10 @@ text-decoration: none;
   color: greenyellow;
  
 }
-#Albums li {
+li {
   list-style: none;
 }
-#Albums a {
+ a {
   text-decoration: none;
 }
 .footer{
